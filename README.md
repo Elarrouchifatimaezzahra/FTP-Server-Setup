@@ -19,5 +19,5 @@ This project demonstrates how to install and configure an FTP server on Debian u
 1.Download and Install VirtualBox.
 2. Download and Install Debian(https://www.debian.org/download).
 3. Install `vsftpd` package.
-4. Follow the detailed steps in the Oracle RAC Setup Guide.
+4. Follow the detailed steps in the FTP Setup Guide.
 
