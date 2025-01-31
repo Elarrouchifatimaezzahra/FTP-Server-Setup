@@ -14,7 +14,6 @@ This project demonstrates how to install and configure an FTP server on Debian u
 ## Prerequisites
 - Debian OS installed on a virtual machine or physical server.
 - Basic knowledge of Linux commands.
-- VirtualBox (for using the pre-configured VM).
 
 ## Setup Steps
 1.Download and Install VirtualBox.
