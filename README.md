@@ -7,7 +7,6 @@ This repository provides a complete guide to setting up an FTP server using Debi
 - [Prerequisites](#prerequisites)
 - [Setup Steps](#setup-steps)
 - [Common Issues and Solutions](#common-issues-and-solutions)
-- [Virtual Machines](#virtual-machines)
 
 ## Introduction
 This project demonstrates how to install and configure an FTP server on Debian using `vsftpd`. It also covers user management, security measures, and testing.
